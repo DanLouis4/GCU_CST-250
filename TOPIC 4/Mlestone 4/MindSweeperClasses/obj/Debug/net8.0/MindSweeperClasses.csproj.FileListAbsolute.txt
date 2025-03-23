@@ -1,0 +1,12 @@
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\obj\Debug\net8.0\MindSweeperClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\obj\Debug\net8.0\MindSweeperClasses.AssemblyInfoInputs.cache
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\obj\Debug\net8.0\MindSweeperClasses.AssemblyInfo.cs
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\obj\Debug\net8.0\MindSweeperClasses.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\bin\Debug\net8.0\MindSweeperClasses.deps.json
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\bin\Debug\net8.0\MindSweeperClasses.dll
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\bin\Debug\net8.0\MindSweeperClasses.pdb
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\obj\Debug\net8.0\MindSweeperClasses.dll
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\obj\Debug\net8.0\refint\MindSweeperClasses.dll
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\obj\Debug\net8.0\MindSweeperClasses.pdb
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\obj\Debug\net8.0\ref\MindSweeperClasses.dll
+C:\Users\phoen\source\repos\MindSweeperClasses\MindSweeperClasses\obj\Debug\net8.0\MindSweeperClasses.sourcelink.json
