@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MineSweeperGUI/1.0.0": {
+        "dependencies": {
+          "MindSweeperClasses": "1.0.0"
+        },
+        "runtime": {
+          "MineSweeperGUI.dll": {}
+        }
+      },
+      "MindSweeperClasses/1.0.0": {
+        "runtime": {
+          "MindSweeperClasses.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MineSweeperGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MindSweeperClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
